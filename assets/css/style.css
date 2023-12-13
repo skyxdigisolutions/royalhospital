@@ -571,8 +571,7 @@ h6 {
 
 @media (max-width: 992px) {
   #hero {
-    margin-bottom: 0;
-    height: 100vh;
+    background-attachment: fixed;
   }
 
   #hero .container {
@@ -593,8 +592,7 @@ h6 {
 
 @media (max-height: 600px) {
   #hero {
-    background-attachment: fixed;
-    height: 110vh;
+   background-attachment: fixed;
   }
 }
 
