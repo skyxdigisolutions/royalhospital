@@ -593,6 +593,7 @@ h6 {
 
 @media (max-height: 600px) {
   #hero {
+    background-attachment: fixed;
     height: 110vh;
   }
 }
