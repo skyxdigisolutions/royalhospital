@@ -590,7 +590,7 @@ h6 {
   }
 }
 
-@media (max-height: 600px) {
+@media (max-width: 600px) {
   #hero {
    background-attachment: fixed;
   }
